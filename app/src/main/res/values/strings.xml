@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="artwork_1_title">College Retro</string>
+    <string name="artwork_1_artist">Raw Pixel</string>
+    <string name="artwork_1_year">2023</string>
+    <string name="artwork_2_title">Original Cosmic</string>
+    <string name="artwork_2_artist">Macro Vector</string>
+    <string name="artwork_2_year">2023</string>
+    <string name="artwork_3_title">Globe Vector</string>
+    <string name="artwork_3_artist">Macro Vector</string>
+    <string name="artwork_3_year">2023</string>
+</resources>
